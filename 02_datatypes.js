@@ -7,7 +7,7 @@ let name = "diwakar";       // string data type
 let student = true;         // boolean data type
 let height ;                // undefined data type
 let temp = null;            // null data type
-let stckRate = 10000000000944000000n;   // bigInt data type;
+let stckRate = 10000000n;   // bigInt data type [it should ends with n];
 let symbol;                 // symbol data type
 
 
